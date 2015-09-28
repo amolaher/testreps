@@ -1,1 +1,1 @@
-This is master 
+This is master and updated from cloned repository
